@@ -1,8 +1,8 @@
-# Majo.exe
+# Chizuru Mizuhara
 
-Majo.exe have almost everything - Fun, Memes, Images, Giveaway, Economy, Anime and NSFW. This bot serve over 100 commands!
+Chizuru Mizuhara have almost everything - Fun, Memes, Images, Giveaway, Economy, Anime and NSFW. This bot serve over 100 commands!
 
-[![Discord](https://discord.com/api/guilds/666599184844980224/widget.png?style=banner2)](https://majoexe.herokuapp.com/server)
+[![Discord](https://discord.com/api/guilds/666599184844980224/widget.png?style=banner2)](https://jingexz01.gq/discord-server)
 
 [![Node.js](https://img.shields.io/github/workflow/status/igorkowalczyk/majobot/Node.js/master?style=flat-square&logo=github&color=%2334D058)](https://majoexe.herokuapp.com/)
 [![Jekyll](https://img.shields.io/github/workflow/status/igorkowalczyk/majobot/Jekyll/master?style=flat-square&logo=github&color=%2334D058)](https://majoexe.herokuapp.com/)
@@ -21,7 +21,7 @@ However, if you want to host Majo yourself - [take a look here](#self-hosting)
 ### Heroku Hosting
 Deploy the app to [Heroku](https://heroku.com)
 
-[![Deploy to heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/igorkowalczyk/majobot/tree/master)
+[![Deploy to heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Example0365/backupchizurumizuhara/tree/master)
 
 [Heroku hosting tutorial](#heroku)
 
