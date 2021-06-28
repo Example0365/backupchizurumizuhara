@@ -21,7 +21,7 @@ However, if you want to host Majo yourself - [take a look here](#self-hosting)
 ### Heroku Hosting
 Deploy the app to [Heroku](https://heroku.com)
 
-[![Deploy to heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Example0365/backupchizurumizuhara/tree/master)
+[![Deploy to heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Example0365/backupchizurumizuharadisc/tree/master)
 
 [Heroku hosting tutorial](#heroku)
 
